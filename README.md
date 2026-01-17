@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi I'm Pelumi!
+Bio: This portfolio provides a technical deep dive into my work in threat detection and network security. It features end-to-end projects involving SIEM implementation (ELK/Splunk), firewall configuration (pfSense), and vulnerability management. Each repository contains detailed documentation of the MITRE ATT&CK techniques simulated, the investigative steps taken during triage, and the remediation strategies implemented. By combining technical proficiency in Kali Linux and PowerShell with a disciplined approach to risk management, I build and defend resilient virtual environments that mirror enterprise-level security challenges
+### 🛠 Technical Stack
 
+* **Security Operations (SOC):** Splunk (SIEM), ELK Stack, Wireshark, Nessus, Jira
+* **Network Defense:** pfSense Firewall, Snort IDS/IPS, VPN Tunneling, VLAN Segmentation
+* **Offensive Security:** Kali Linux, Nmap, Metasploit, Burp Suite, SQLmap
+* **Systems & Automation:** PowerShell, Bash Scripting, Active Directory, Linux CLI
+* **Frameworks:** MITRE ATT&CK, NIST Cybersecurity Framework, CIS Benchmarks
 <!--
 **plumi-cyber/plumi-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
